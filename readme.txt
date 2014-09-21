@@ -5,3 +5,4 @@ string for testing the master branch
 string for branch 'hotfix'
 string for branch 'hotfix2'
 string for iss1
+string for iss2
